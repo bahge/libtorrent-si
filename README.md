@@ -1,2 +1,5 @@
 # libtorrent-si
-Um pouco de python e torrent
+
+Projeto para implementação de um client torrent, para atendimento da tarefa de Sistemas distribuidos.
+
+
